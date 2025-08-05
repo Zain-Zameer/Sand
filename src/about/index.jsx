@@ -25,11 +25,7 @@ function About() {
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio quia vitae hic, voluptates animi sequi consectetur, facere placeat ea debitis molestiae labore aperiam sint eum autem sunt ipsum, unde eveniet expedita adipisci quis eos voluptatum saepe tempora? Dolorum est aliquid reiciendis ex neque nobis ab dolores. Porro enim velit ullam atque aut magni, minus illo ad rem veniam voluptates iste? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi animi, alias ex, officia eius placeat aliquid voluptate quam architecto tempora porro fuga inventore dolorem. Magnam cum aliquid quos sit autem aliquam iste distinctio ducimus illo iusto molestiae aut perferendis fugit, ad officia repellendus adipisci expedita harum architecto quas illum ea. Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis unde quibusdam incidunt facere in nisi minus, ex dicta quisquam sit ut nam modi vitae, fuga labore. Nam quasi ullam aperiam officiis nesciunt omnis, laudantium dolores aliquid placeat cum cupiditate animi at adipisci! Vero quos repudiandae ea quo excepturi. Adipisci hic mollitia nostrum nihil iste accusamus quia vitae, aut incidunt recusandae! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora rem voluptatibus explicabo. Praesentium beatae fugit quam, iure nam sint facilis?</p>
             </div>
 
-            <div className="flex justify-center items-center bg-black w-full py-4">
-            <p className="text-white text-sm tracking-wide">
-            © {new Date().getFullYear()} SAND. All rights reserved.
-            </p>
-        </div>
+           
 
     </div>
   )
